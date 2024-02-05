@@ -1,0 +1,14 @@
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/bin/Debug/net8.0/try-catch-finally
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/bin/Debug/net8.0/try-catch-finally.deps.json
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/bin/Debug/net8.0/try-catch-finally.runtimeconfig.json
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/bin/Debug/net8.0/try-catch-finally.dll
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/bin/Debug/net8.0/try-catch-finally.pdb
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/obj/Debug/net8.0/try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/obj/Debug/net8.0/try-catch-finally.AssemblyInfoInputs.cache
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/obj/Debug/net8.0/try-catch-finally.AssemblyInfo.cs
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/obj/Debug/net8.0/try-catch-finally.csproj.CoreCompileInputs.cache
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/obj/Debug/net8.0/try-catch-finally.dll
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/obj/Debug/net8.0/refint/try-catch-finally.dll
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/obj/Debug/net8.0/try-catch-finally.pdb
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/obj/Debug/net8.0/try-catch-finally.genruntimeconfig.cache
+/Users/enesuyan/Desktop/code-cs/try-catch-finally/obj/Debug/net8.0/ref/try-catch-finally.dll
