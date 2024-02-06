@@ -1,0 +1,14 @@
+/Users/enesuyan/Desktop/code-cs/if-elseif/bin/Debug/net8.0/if-elseif
+/Users/enesuyan/Desktop/code-cs/if-elseif/bin/Debug/net8.0/if-elseif.deps.json
+/Users/enesuyan/Desktop/code-cs/if-elseif/bin/Debug/net8.0/if-elseif.runtimeconfig.json
+/Users/enesuyan/Desktop/code-cs/if-elseif/bin/Debug/net8.0/if-elseif.dll
+/Users/enesuyan/Desktop/code-cs/if-elseif/bin/Debug/net8.0/if-elseif.pdb
+/Users/enesuyan/Desktop/code-cs/if-elseif/obj/Debug/net8.0/if-elseif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesuyan/Desktop/code-cs/if-elseif/obj/Debug/net8.0/if-elseif.AssemblyInfoInputs.cache
+/Users/enesuyan/Desktop/code-cs/if-elseif/obj/Debug/net8.0/if-elseif.AssemblyInfo.cs
+/Users/enesuyan/Desktop/code-cs/if-elseif/obj/Debug/net8.0/if-elseif.csproj.CoreCompileInputs.cache
+/Users/enesuyan/Desktop/code-cs/if-elseif/obj/Debug/net8.0/if-elseif.dll
+/Users/enesuyan/Desktop/code-cs/if-elseif/obj/Debug/net8.0/refint/if-elseif.dll
+/Users/enesuyan/Desktop/code-cs/if-elseif/obj/Debug/net8.0/if-elseif.pdb
+/Users/enesuyan/Desktop/code-cs/if-elseif/obj/Debug/net8.0/if-elseif.genruntimeconfig.cache
+/Users/enesuyan/Desktop/code-cs/if-elseif/obj/Debug/net8.0/ref/if-elseif.dll
