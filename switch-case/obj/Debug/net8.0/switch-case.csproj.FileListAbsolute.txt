@@ -1,0 +1,14 @@
+/Users/enesuyan/Desktop/code-cs/switch-case/bin/Debug/net8.0/switch-case
+/Users/enesuyan/Desktop/code-cs/switch-case/bin/Debug/net8.0/switch-case.deps.json
+/Users/enesuyan/Desktop/code-cs/switch-case/bin/Debug/net8.0/switch-case.runtimeconfig.json
+/Users/enesuyan/Desktop/code-cs/switch-case/bin/Debug/net8.0/switch-case.dll
+/Users/enesuyan/Desktop/code-cs/switch-case/bin/Debug/net8.0/switch-case.pdb
+/Users/enesuyan/Desktop/code-cs/switch-case/obj/Debug/net8.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesuyan/Desktop/code-cs/switch-case/obj/Debug/net8.0/switch-case.AssemblyInfoInputs.cache
+/Users/enesuyan/Desktop/code-cs/switch-case/obj/Debug/net8.0/switch-case.AssemblyInfo.cs
+/Users/enesuyan/Desktop/code-cs/switch-case/obj/Debug/net8.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/enesuyan/Desktop/code-cs/switch-case/obj/Debug/net8.0/switch-case.dll
+/Users/enesuyan/Desktop/code-cs/switch-case/obj/Debug/net8.0/refint/switch-case.dll
+/Users/enesuyan/Desktop/code-cs/switch-case/obj/Debug/net8.0/switch-case.pdb
+/Users/enesuyan/Desktop/code-cs/switch-case/obj/Debug/net8.0/switch-case.genruntimeconfig.cache
+/Users/enesuyan/Desktop/code-cs/switch-case/obj/Debug/net8.0/ref/switch-case.dll
