@@ -1,0 +1,14 @@
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/obj/Debug/net8.0/donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/obj/Debug/net8.0/donguler-while-foreach.AssemblyInfoInputs.cache
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/obj/Debug/net8.0/donguler-while-foreach.AssemblyInfo.cs
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/obj/Debug/net8.0/donguler-while-foreach.csproj.CoreCompileInputs.cache
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/bin/Debug/net8.0/donguler-while-foreach
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/bin/Debug/net8.0/donguler-while-foreach.deps.json
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/bin/Debug/net8.0/donguler-while-foreach.runtimeconfig.json
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/bin/Debug/net8.0/donguler-while-foreach.dll
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/bin/Debug/net8.0/donguler-while-foreach.pdb
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/obj/Debug/net8.0/donguler-while-foreach.dll
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/obj/Debug/net8.0/refint/donguler-while-foreach.dll
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/obj/Debug/net8.0/donguler-while-foreach.pdb
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/obj/Debug/net8.0/donguler-while-foreach.genruntimeconfig.cache
+/Users/enesuyan/Desktop/code-cs/donguler-while-foreach/obj/Debug/net8.0/ref/donguler-while-foreach.dll
